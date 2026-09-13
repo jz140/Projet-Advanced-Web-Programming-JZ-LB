@@ -1,0 +1,8 @@
+{
+  "entity": "EAT",
+  "schema": [
+    {"name": "id_animal", "type": "INT", "nullable": false, "primary_key": true, "foreign_key": {"references_table": "ANIMAL", "references_column": "id_animal"}},
+    {"name": "id_food", "type": "INT", "nullable": false, "primary_key": true, "foreign_key": {"references_table": "FOOD", "references_column": "id_food"}}
+  ],
+  "data": []
+}

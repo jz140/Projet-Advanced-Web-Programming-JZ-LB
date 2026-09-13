@@ -1,0 +1,8 @@
+{
+  "entity": "INTERACT",
+  "schema": [
+    {"name": "id_animal", "type": "INT", "nullable": false, "primary_key": true, "foreign_key": {"references_table": "ANIMAL", "references_column": "id_animal"}},
+    {"name": "id_user", "type": "INT", "nullable": false, "primary_key": true, "foreign_key": {"references_table": "USER", "references_column": "id_user"}}
+  ],
+  "data": []
+}
