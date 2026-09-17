@@ -197,4 +197,4 @@ INSERT INTO TICKET (id_ticket, payement_date, quantity_ticket, total_amount, pay
 (2, '2026-09-02 11:30:00', 1, 15.00, 'Cash', 'Child Pass', 10),
 (3, '2026-09-05 09:45:00', 4, 90.00, 'Credit Card', 'Family Pass', 10),
 (4, '2026-09-08 14:00:00', 2, 60.00, 'Cash', 'Adult Pass Pass', 10),
-(5, '2026-09-10 16:20:00', 1, 25.00, 'Credit Card', 'Adult Pass', 10);
+(5, '2026-09-10 16:20:00', 1, 25.00, 'Credit Card', 'Adult Pass', 10);BLABLA 
