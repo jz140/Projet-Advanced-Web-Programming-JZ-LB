@@ -1,0 +1,12 @@
+  [
+    {"id_user": 1, "function_user": "Veterinarian", "name_user": "Jean Dupont", "gender_user": "Male", "email_user": "jean.dupont@zoo.com", "password_user": "password123"},
+    {"id_user": 2, "function_user": "Keeper", "name_user": "Marie Curie", "gender_user": "Female", "email_user": "marie.curie@zoo.com", "password_user": "password123"},
+    {"id_user": 3, "function_user": "Biologist", "name_user": "Pierre Martin", "gender_user": "Male", "email_user": "pierre.martin@zoo.com", "password_user": "password123"},
+    {"id_user": 4, "function_user": "Zoo Manager", "name_user": "Sophie Bernard", "gender_user": "Female", "email_user": "sophie.bernard@zoo.com", "password_user": "password123"},
+    {"id_user": 5, "function_user": "Cleaner", "name_user": "Luc Thomas", "gender_user": "Male", "email_user": "luc.thomas@zoo.com", "password_user": "password123"},
+    {"id_user": 6, "function_user": "Security Officer", "name_user": "Julie Petit", "gender_user": "Female", "email_user": "julie.petit@zoo.com", "password_user": "password123"},
+    {"id_user": 7, "function_user": "Nutritionist", "name_user": "Antoine Robert", "gender_user": "Male", "email_user": "antoine.robert@zoo.com", "password_user": "password123"},
+    {"id_user": 8, "function_user": "Guide", "name_user": "Clara Richard", "gender_user": "Female", "email_user": "clara.richard@zoo.com", "password_user": "password123"},
+    {"id_user": 9, "function_user": "Maintenance Worker", "name_user": "David Durand", "gender_user": "Male", "email_user": "david.durand@zoo.com", "password_user": "password123"},
+    {"id_user": 10, "function_user": "Visitor", "name_user": "Paul Moreau", "gender_user": "Male", "email_user": "paul.moreau@visitor.com", "password_user": "password123"}
+  ]
