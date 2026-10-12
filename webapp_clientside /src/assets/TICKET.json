@@ -1,0 +1,7 @@
+  [
+    {"id_ticket": 1, "payement_date": "2026-09-01 10:15:00", "quantity_ticket": 2, "total_amount": 50.00, "payement_method": "Credit Card", "ticket_type": "Adult Pass", "id_user": 10},
+    {"id_ticket": 2, "payement_date": "2026-09-02 11:30:00", "quantity_ticket": 1, "total_amount": 15.00, "payement_method": "Cash", "ticket_type": "Child Pass", "id_user": 10},
+    {"id_ticket": 3, "payement_date": "2026-09-05 09:45:00", "quantity_ticket": 4, "total_amount": 90.00, "payement_method": "Credit Card", "ticket_type": "Family Pass", "id_user": 10},
+    {"id_ticket": 4, "payement_date": "2026-09-08 14:00:00", "quantity_ticket": 2, "total_amount": 60.00, "payement_method": "Cash", "ticket_type": "Adult Pass Pass", "id_user": 10},
+    {"id_ticket": 5, "payement_date": "2026-09-10 16:20:00", "quantity_ticket": 1, "total_amount": 25.00, "payement_method": "Credit Card", "ticket_type": "Adult Pass", "id_user": 10}
+  ]
